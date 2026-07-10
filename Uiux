@@ -1,39 +1,185 @@
-Here are **more design flaws with reasons and improvements** for each image.
+## **Image 1 – Open False Ceiling**
 
-## 1. Open False Ceiling (Image 1)
+### Design Issues
 
-| Design Issue                   | Why It Is Bad                           | Suggested Improvement                               |
-| ------------------------------ | --------------------------------------- | --------------------------------------------------- |
-| Exposed HVAC ducts             | Poor appearance and difficult to clean  | Install ceiling panels with removable access panels |
-| Exposed electrical cables      | Electrical safety risk                  | Route cables inside cable trays and conduits        |
-| No maintenance access planning | Frequent ceiling removal damages panels | Provide dedicated inspection hatches                |
-| Dust accumulation              | Reduces indoor air quality              | Regular cleaning and sealed ceiling system          |
-| Visible building services      | Reduces aesthetic quality               | Conceal services within suspended ceiling           |
-| Uneven ceiling finish          | Gives unfinished appearance             | Maintain uniform ceiling alignment                  |
+1. Ceiling panel is missing.
+2. HVAC ducts are exposed.
+3. Electrical cables are visible.
+4. No dedicated maintenance access panel.
+5. Poor ceiling finish affects aesthetics.
+6. Dust can accumulate on exposed services.
+7. Services are not properly concealed.
+8. Open ceiling may affect fire safety.
+
+### Reasons
+
+* Creates an unfinished appearance.
+* Increases safety risks.
+* Makes cleaning difficult.
+* Reduces indoor aesthetics.
+* Increases maintenance effort.
+* May expose services to damage.
+* Can affect occupant confidence.
+* Poor facility management.
+
+### Improvements
+
+* Install new ceiling panels.
+* Provide removable access panels.
+* Organize cables in cable trays.
+* Conceal ducts within the false ceiling.
+* Conduct regular maintenance.
+* Improve fire protection around service areas.
+* Ensure proper ceiling alignment.
+* Clean exposed ducts periodically.
 
 ---
 
-## 2. Parking Area (Image 2)
+# **Image 2 – Parking Area**
 
-| Design Issue                         | Why It Is Bad                   | Suggested Improvement             |
-| ------------------------------------ | ------------------------------- | --------------------------------- |
-| No marked parking bays               | Random vehicle placement        | Paint parking lines               |
-| Mixed bicycle and motorcycle parking | Causes congestion               | Separate parking zones            |
-| No pedestrian walkway                | Unsafe for pedestrians          | Provide dedicated walking path    |
-| Lack of signage                      | Users park randomly             | Install directional signs         |
-| Insufficient shade                   | Vehicles exposed to heat        | Add covered parking or more trees |
-| No accessibility parking             | Inconvenient for disabled users | Reserve accessible parking spaces |
-| Poor traffic circulation             | Vehicle conflicts               | Define one-way movement           |
+### Design Issues
+
+1. No marked parking slots.
+2. Mixed parking for bikes and bicycles.
+3. No pedestrian pathway.
+4. Congested parking arrangement.
+5. Lack of directional signage.
+6. No dedicated accessible parking.
+7. Limited weather protection.
+8. Poor circulation planning.
+
+### Reasons
+
+* Causes confusion while parking.
+* Increases risk of vehicle damage.
+* Reduces pedestrian safety.
+* Makes movement difficult.
+* Poor user experience.
+* Inefficient use of space.
+* Difficult during peak hours.
+* Unsafe traffic flow.
+
+### Improvements
+
+* Paint parking bay markings.
+* Separate bicycle and motorcycle zones.
+* Create pedestrian walkways.
+* Install parking signs.
+* Reserve accessible parking spaces.
+* Add covered parking.
+* Improve circulation layout.
+* Install speed control measures.
 
 ---
 
-## 3. Open Drain (Image 3)
+# **Image 3 – Open Drain Chamber**
 
-| Design Issue                  | Why It Is Bad        | Suggested Improvement                           |
-| ----------------------------- | -------------------- | ----------------------------------------------- |
-| Open inspection chamber       | Trip hazard          | Install removable drain cover                   |
-| Standing water                | Mosquito breeding    | Improve drainage slope                          |
-| Poor housekeeping             | Dirty environment    | Regular cleaning schedule                       |
+### Design Issues
+
+1. Drain chamber is uncovered.
+2. Water is stagnant.
+3. Drain area is dirty.
+4. No warning signs.
+5. Poor drainage design.
+6. Unsafe opening.
+7. Lack of regular maintenance.
+8. Slip hazard nearby.
+
+### Reasons
+
+* High risk of tripping.
+* Mosquito breeding.
+* Bad odour.
+* Unhygienic surroundings.
+* Water overflow possibility.
+* Poor appearance.
+* Increased maintenance cost.
+* Safety hazard for users.
+
+### Improvements
+
+* Install drain cover.
+* Improve drainage slope.
+* Clean drains regularly.
+* Remove stagnant water.
+* Place warning signs.
+* Improve housekeeping.
+* Schedule preventive maintenance.
+* Inspect drainage frequently.
+
+---
+
+# **Image 4 – Courtyard Area**
+
+### Design Issues
+
+1. Water accumulation on paving.
+2. Poor floor slope.
+3. Damaged or uneven paving.
+4. Construction materials left exposed.
+5. Inadequate drainage.
+6. Wet walking surface.
+7. Poor maintenance.
+8. Limited seating and user amenities.
+
+### Reasons
+
+* Slip hazard.
+* Water damages flooring.
+* Untidy appearance.
+* Difficult pedestrian movement.
+* High maintenance cost.
+* Reduced usability.
+* Poor landscape quality.
+* Negative user experience.
+
+### Improvements
+
+* Improve floor gradient.
+* Install additional drains.
+* Repair damaged paving.
+* Remove maintenance materials.
+* Use anti-slip flooring.
+* Maintain landscape regularly.
+* Add benches and seating.
+* Improve water management.
+
+---
+
+# **Image 5 – Elevator Lobby**
+
+### Design Issues
+
+1. Limited waiting space.
+2. No queue management.
+3. Congestion near lift.
+4. Lack of seating.
+5. Minimal wayfinding signage.
+6. Plain lobby design.
+7. Limited circulation space.
+8. No information display.
+
+### Reasons
+
+* Users block elevator entrance.
+* Difficult movement during peak hours.
+* Poor accessibility.
+* Uncomfortable waiting.
+* Confusing for visitors.
+* Reduces visual appeal.
+* Inefficient people flow.
+* Lower user satisfaction.
+
+### Improvements
+
+* Mark waiting zones.
+* Add queue lines.
+* Increase lobby space where possible.
+* Provide seating nearby.
+* Install floor indicators and signage.
+* Improve lighting.
+* Enhance interior finishes.
+* Keep entrance area unobstructed.
 | Drain not easily identifiable | Safety issue         | Paint warning markings                          |
 | No protective barrier         | Risk of accidents    | Install temporary barricades during maintenance |
 | Drain opening too large       | Foot entrapment risk | Use grated covers with standard spacing         |
